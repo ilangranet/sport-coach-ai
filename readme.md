@@ -24,8 +24,8 @@ This project is an AI-powered sports coach that uses computer vision and the Goo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ILANGRA_Doxpilot/sports-coach-ai.git
-   cd sports-coach-ai
+   git clone https://github.com/ilangranet/sport-coach-ai.git
+   cd sport-coach-ai
    ```
 
 2. Install required dependencies:
