@@ -1,5 +1,3 @@
-I'll create a comprehensive README.md file for this Sports Coach AI project:
-
 # Sport Coach AI
 
 This project is an AI-powered sports coach that uses computer vision and the Google Gemini AI model to analyze video streams of physical activities in real-time. The system can identify sports, evaluate form and technique, and provide feedback in Hebrew.
