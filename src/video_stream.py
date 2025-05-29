@@ -12,7 +12,7 @@ from flask_cors import CORS # Import CORS
 app = Flask(__name__)
 CORS(app)
 
-API_KEY = "AIzaSyD34sn99oqG3Uuwqord1uf9_0aiXaCpmq4" #TODO put your KEY
+API_KEY = "your api key" #TODO put your KEY
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 #API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-live:generateContent" # Updated to gemini-2.0-flash-live
 
